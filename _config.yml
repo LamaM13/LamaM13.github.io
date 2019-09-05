@@ -1,0 +1,38 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               LamaM13
+tagline:             A Moderately Okay Data Science Blog
+url:                 http://LamaM13.github.io
+paginate:            2
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Lama Alsuwayan
+  url:               None
+  email:             Lama.mAlsuwayan@gmail.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/LamaM13
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+# Page List
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/index.html'
