@@ -39,13 +39,16 @@ Look for the stations near LAGUARDIA and JFK airports:
 * After extracting the most crowded stations the airport stations weren't part of them. 
 
 
-### Top Ten Stations by # of Exits
+##### Top Ten Stations by # of Exits
 
 ![image](top_ten_stations.png)
 ![image info](Users/khalidalsuwayan/Desktop/LamaM13.github.io/_posts/top_ten_stations.png "Image Description")
 
-### Crowded Days In The Week 
+##### Crowded Days In The Week 
+![image info](Users/khalidalsuwayan/Desktop/LamaM13.github.io/_posts/crowded_days.png "Image Description")
 
-### Crowded Times In The Day
+##### Crowded Times In The Day
+![image info](Users/khalidalsuwayan/Desktop/LamaM13.github.io/_posts/crowded_times.png "Image Description")
 
-### Top Turnstiles by # of Exits 
+##### Top Turnstiles by # of Exits 
+![image info](Users/khalidalsuwayan/Desktop/LamaM13.github.io/_posts/most_turnstiles.png "Image Description")
