@@ -27,3 +27,4 @@ title: Zach's Test Post
 ### Top Ten Stations by # of Exits
 
 [image](top_ten_stations.png)
+[image info]((/Users/khalidalsuwayan/Desktop/LamaM13.github.io/_posts/top_ten_stations.png "Image Description"))
