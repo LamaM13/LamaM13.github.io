@@ -16,12 +16,30 @@ As we are a Data Scientist team, we conducted an EDA on MTA data set to get insi
 
 ### Work Stages
 
-* [Data Cleaning](https://lamam13.github.io/2019/09/07/Data-cleaning/) 
-* [Data Processing](https://lamam13.github.io/2019/09/07/Data-processing/)
+* Data Cleaning
+ - Strip White Spaces.
+ - Assure there is no NaN values.
+ - Extract the actual from **Entries** and **Exits** values. 
+   1- Replace the negative values by zero. 
+   2- Set a limit for the **Entries** and **Exits** values. 
+ - Parse data and time columns to timestamp.
 
-* Strip White Spaces. 
-* Assure there is no NaN values. 
-* Extract the actual from **Entries** and **Exits** values. 
-1- Replace the negative values by zero. 
-2- Set a limit for the **Entries** and **Exits** values. 
-* Parse data and time columns to timestamp.
+* Data Processing 
+
+Extract __top ten crowded__ stations and do the following:
+
+* Top five crowded stations by <span style="text-decoration: underline">number of exits</span>
+* Look for the most <span style="text-decoration: underline">crowded days</span>
+* Look for the most <span style="text-decoration: underline">crowded times</span>
+* Look for the most <span style="text-decoration: underline">crowded turnstiles</span>
+
+--- 
+
+Look for the stations near LAGUARDIA and JFK airports:
+* After extracting the most crowded stations the airport stations weren't part of them. 
+
+
+### Top Ten Stations by # of Exits
+
+![image](top_ten_stations.png)
+![image info](Users/khalidalsuwayan/Desktop/LamaM13.github.io/_posts/top_ten_stations.png "Image Description")
