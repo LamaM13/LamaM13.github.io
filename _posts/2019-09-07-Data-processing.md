@@ -3,7 +3,18 @@ layout: post
 title: Data Processing
 ---
 
-This is a test post. 
+Extract __top ten crowded__ stations and do the following:
+
+* Top five crowded stations by <span style="text-decoration: underline">number of exits</span>
+* Look for the most <span style="text-decoration: underline">crowded days</span>
+* Look for the most <span style="text-decoration: underline">crowded times</span>
+* Look for the most <span style="text-decoration: underline">crowded turnstiles</span>
+
+--- 
+
+Look for the stations near LAGUARDIA and JFK airports:
+* After extracting the most crowded stations the airport stations weren't part of them. 
+
 
 To make a post, you must follow the naming convention shown for this file,
 with the data as the first part of the file name, seperated by dashes. Then
