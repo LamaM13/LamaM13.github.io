@@ -19,8 +19,8 @@ As we are a Data Scientist team, we conducted an EDA on MTA data set to get insi
 
 ### Work Stages
 
-* [Data Cleaning] ({{https://lamam13.github.io/2019/09/07/Data-cleaning/}}) [404]({{ site.baseurl }}/404.html), [RSS feed]({{ site.baseurl }}/atom.xml), posts, and [example page]({{ site.baseurl }}/about))
-* [Data Processing] ()
+* [Data Cleaning](https://lamam13.github.io/2019/09/07/Data-cleaning/) 
+* [Data Processing]()
 
 
 
