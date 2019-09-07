@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Introducation
+title: Introduction
 ---
 
-```
+<!-- ```
 ---
 layout: post
 title: Zach's Test Post
@@ -12,3 +12,4 @@ title: Zach's Test Post
 ![Image test]({{ site.url }}/images/AlanLeeShireGandalf.JPG)
 
 
+ -->

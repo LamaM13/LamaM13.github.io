@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Data Science Bootcamp
+title: Data Science Projects
 ---
 
-In this blog, I will be posting the projects and achivments I did every week during the Data Science Bootcamp. 
+This page includes the projects and achivments I did in every week during the Data Science Bootcamp. 
 ---
 
 ### Projects
