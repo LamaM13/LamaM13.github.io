@@ -26,4 +26,4 @@ title: Zach's Test Post
 
 ### Top Ten Stations by # of Exits
 
-[image](Users/khalidalsuwayan/Desktop/top ten stations.png)
+[image](top_ten_stations.png)
