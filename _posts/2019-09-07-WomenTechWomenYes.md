@@ -41,7 +41,7 @@ Look for the stations near LAGUARDIA and JFK airports:
 
 ##### Top Ten Stations by # of Exits
 
-![image](top_ten_stations.png)
+![image]({{site.url}}/_posts/top_ten_stations.png)
 ![image info](Users/khalidalsuwayan/Desktop/LamaM13.github.io/_posts/top_ten_stations.png "Image Description")
 
 ##### Crowded Days In The Week 
