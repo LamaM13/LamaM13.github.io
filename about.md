@@ -7,7 +7,8 @@ title: About
   Hey there! I'm Lama, I am currently an intern at the Data Science Bootcamp. In this blog, I will be posting the projects and achievements that I did in every week during the bootcamp.
 </p>
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/LamaM13/LamaM13.github.io) or [ask me on my email](Lama.mAlsuwayan@gmail.com).
+
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/LamaM13/LamaM13.github.io) or [ask me on my email](mailto:Lama.mAlsuwayan@gmail.com). 
 
 Thanks for reading!
 
