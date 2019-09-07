@@ -43,10 +43,10 @@ Look for the stations near LAGUARDIA and JFK airports:
 ![image info]({{site.url}}/images/top_ten_stations.png)
 
 ##### Crowded Days In The Week 
-![image info](Users/khalidalsuwayan/Desktop/LamaM13.github.io/_posts/crowded_days.png "Image Description")
+![image info]({{site.url}}/images/crowded_days.png)
 
 ##### Crowded Times In The Day
-![image info](Users/khalidalsuwayan/Desktop/LamaM13.github.io/_posts/crowded_times.png "Image Description")
+![image info]({{site.url}}/images/crowded_times.png)
 
 ##### Top Turnstiles by # of Exits 
-![image info](Users/khalidalsuwayan/Desktop/LamaM13.github.io/_posts/most_turnstiles.png "Image Description")
+![image info]({{site.url}}/images/most_turnstiles.png)
