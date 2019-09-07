@@ -7,6 +7,10 @@ title: About
   Hey there! I'm Lama, I am currently an intern at the Data Science Bootcamp. In this blog, I will be posting the projects and achievements that I did in every week during the bootcamp.
 </p>
 
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/LamaM13/LamaM13.github.io) or [ask me on my email](Lama.mAlsuwayan@gmail.com).
+
+Thanks for reading!
+
 <!-- In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
 There are currently two themes built on Poole:

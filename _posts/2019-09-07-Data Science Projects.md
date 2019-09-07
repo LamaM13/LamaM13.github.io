@@ -3,7 +3,7 @@ layout: post
 title: Data Science Projects
 ---
 
-This page includes the projects and achivments I did in every week during the Data Science Bootcamp. 
+ This page includes the projects and achivments I did during the Data Science Bootcamp. 
 ---
 
 ### Projects
