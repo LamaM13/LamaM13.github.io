@@ -16,7 +16,7 @@ As we are a Data Scientist team, we conducted an EDA on MTA data set to get insi
 
 ### Work Stages
 
-* Data Cleaning
+#### Data Cleaning
  - Strip White Spaces.
  - Assure there is no NaN values.
  - Extract the actual from **Entries** and **Exits** values. 
@@ -24,7 +24,7 @@ As we are a Data Scientist team, we conducted an EDA on MTA data set to get insi
    2- Set a limit for the **Entries** and **Exits** values. 
  - Parse data and time columns to timestamp.
 
-* Data Processing 
+#### Data Processing 
 
 Extract __top ten crowded__ stations and do the following:
 
@@ -43,3 +43,9 @@ Look for the stations near LAGUARDIA and JFK airports:
 
 ![image](top_ten_stations.png)
 ![image info](Users/khalidalsuwayan/Desktop/LamaM13.github.io/_posts/top_ten_stations.png "Image Description")
+
+### Crowded Days In The Week 
+
+### Crowded Times In The Day
+
+### Top Turnstiles by # of Exits 
