@@ -41,13 +41,16 @@ In this problem, I want to find out the factors that influence the ratings of ho
 - Cancellation Policy 
 
 ### Correlation Matrix 
+
 ![image info]({{site.url}}/images/heatmap.png)
 
-**The most related features to the target are Hotel_price and Cancellation_policy**
+*The most related features to the target are Hotel_price and Cancellation_policy*
 
 ### Result 
+
 ![image info]({{site.url}}/images/risduals_and_QQ.png)  
+
 
 ![image info]({{site.url}}/images/result.png)
 
-**R^2 value: 0.452**
+The R^2 vaalue is: **0.452** 
