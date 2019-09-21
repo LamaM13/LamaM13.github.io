@@ -30,5 +30,24 @@ In this problem, I want to find out the factors that influence the ratings of ho
 - Split the data into two sets, one for the training set and the other for the testing set. - Cross-validated the model. 
 
 #### Testing 
-- Test the model.   
+- Test the model. 
 
+### Features Selected 
+- City 
+- Price of hotel 
+- Number of bedrooms 
+- Number of bathrooms 
+- Bed type
+- Cancellation Policy 
+
+### Correlation Matrix 
+![image info]({{site.url}}/images/heatmap.png)
+
+**The most related features to the target are Hotel_price and Cancellation_policy**
+
+### Result 
+![image info]({{site.url}}/images/risduals_and_QQ.png)  
+
+![image info]({{site.url}}/images/result.png)
+
+**R^2 value: 0.452**
