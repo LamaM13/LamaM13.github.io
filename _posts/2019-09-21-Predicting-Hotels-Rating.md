@@ -27,7 +27,8 @@ In this problem, I want to find out the factors that influence the ratings of ho
 
 #### Moedling and Building Baseline 
 - The categorical data was handled by creating dummy variable. 
-- Split the data into two sets, one for the training set and the other for the testing set. - Cross-validated the model. 
+- Split the data into two sets, one for the training set and the other for the testing set.
+- Cross-validated the model. 
 
 #### Testing 
 - Test the model. 
