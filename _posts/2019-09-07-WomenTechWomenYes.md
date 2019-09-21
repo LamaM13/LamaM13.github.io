@@ -20,8 +20,8 @@ As we are a Data Scientist team, we conducted an EDA on MTA data set to get insi
  - Strip White Spaces.
  - Assure there is no NaN values.
  - Extract the actual from **Entries** and **Exits** values. 
-   1- Replace the negative values by zero. 
-   2- Set a limit for the **Entries** and **Exits** values. 
+   - Replace the negative values by zero. 
+   - Set a limit for the **Entries** and **Exits** values. 
  - Parse data and time columns to timestamp.
 
 #### Data Processing 
