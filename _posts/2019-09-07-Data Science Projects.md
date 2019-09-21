@@ -9,7 +9,7 @@ title: Data Science Projects
 ### Projects
 
 * [*WomenTechWomenYes (WTWY)*](https://lamam13.github.io/2019/09/07/WomenTechWomenYes/)
-* [*Predicting Hotels Rating*](https://lamam13.github.io/2019/09/21/Predicting-Hotels-Rating/)
+* [*Predicitng Hotels Rating*](https://lamam13.github.io/2019/09/21/Predicting-Hotels-Rating/)
 -----
 
 
