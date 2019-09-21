@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Predicting Hotels Rating Listed on Booking.com
+title: Predicting Hotels Rating 
 ---
 
 ### Overview 
