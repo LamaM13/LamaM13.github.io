@@ -25,7 +25,7 @@ The data set includes almost 35,000 of observations.
 As we see here there is an imbalanced class in the target, there are only 548 individuals with stroke, while 98% of individuals are not having a stroke, and this issue was solved by using SMOTE to oversample positive values. 
 
 ![image info]({{site.url}}/images/target's_classes.png)
-![image info]({{site.url}}/images/target'tragtet_classes.png)
+![image info]({{site.url}}/images/tragtet_classes.png)
 
 The first plot shows the number of people who have hypertension and those who did not have hypertension with a stroke or not. The second plot shows the age of these individuals.
 
