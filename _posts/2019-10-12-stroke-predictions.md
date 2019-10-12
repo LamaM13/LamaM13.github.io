@@ -17,7 +17,7 @@ The main objective of this project is to predict whether an individual has a str
 
 #### Data Acquisition 
 
-Data was acquired from *Kaggle.com* https://www.kaggle.com/asaumya/healthcare-dataset-stroke-data. 
+Data was acquired from *Kaggle.com*, [Here is the link](https://www.kaggle.com/asaumya/healthcare-dataset-stroke-data). 
 The data set includes almost 35,000 of observations. 
 
 #### EDA 
@@ -26,13 +26,20 @@ As we see here there is an imbalanced class in the target, there are only 548 in
 
 ![image info]({{site.url}}/images/target's_classes.png)
 
-Individuals with hypertension 
+The first plot shows the number of people who have hypertension and those who did not have hypertension with a stroke or not. The second plot shows the age of these individuals.
 
 ![image info]({{site.url}}/images/hypertension1.png)
 ![image info]({{site.url}}/images/hypertension.png)
 
-![image info]({{site.url}}/images/gender-1.png)
-![image info]({{site.url}}/images/gender1.png)
+The first plot shows the number of people who have had heart disease and those who did not have heart disease with a stroke or not. The second plot shows the age of these individuals.
+
+![image info]({{site.url}}/images/heart1.png)
+![image info]({{site.url}}/images/heart2.png)
+
+The first plot shows the number of individuals and their smoking status who had stroke or not, and the second plot shows the ages of these individuals. 
+
+![image info]({{site.url}}/images/smoke1.png)
+![image info]({{site.url}}/images/smoke2.png)
 
 
 #### Baseline Model
