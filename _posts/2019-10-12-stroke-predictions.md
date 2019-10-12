@@ -5,7 +5,7 @@ title: Stroke Prediction Using Classification Methods
 
 ### Overview
 
-According to the *World Health Organization*, Stroke is the second leading cause of death worldwide after Ischaemic heart disease. Ischaemic heart disease and stroke are the world's biggest killers, accounting for a combined 15.2 million deaths in 2016. 
+According to the *World Health Organization*, stroke is the second leading cause of death worldwide after Ischaemic heart disease. Ischaemic heart disease and stroke are the world's biggest killers, accounting for a combined 15.2 million deaths in 2016. 
 
 ### Objective 
 
@@ -18,7 +18,7 @@ The main objective of this project is to predict whether an individual has a str
 #### Data Acquisition 
 
 Data was acquired from *Kaggle.com*, [here is the link](https://www.kaggle.com/asaumya/healthcare-dataset-stroke-data). 
-The data set includes almost 35,000 of observations. 
+The data set includes almost 35,000 of observations after removing missing values. 
 
 #### EDA 
 
