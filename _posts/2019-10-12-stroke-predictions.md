@@ -17,7 +17,7 @@ The main objective of this project is to predict whether an individual has a str
 
 #### Data Acquisition 
 
-Data was acquired from *Kaggle.com*, [Here is the link](https://www.kaggle.com/asaumya/healthcare-dataset-stroke-data). 
+Data was acquired from *Kaggle.com*, [here is the link](https://www.kaggle.com/asaumya/healthcare-dataset-stroke-data). 
 The data set includes almost 35,000 of observations. 
 
 #### EDA 
@@ -41,11 +41,39 @@ The first plot shows the number of individuals and their smoking status who had 
 ![image info]({{site.url}}/images/smoke1.png)
 ![image info]({{site.url}}/images/smoke2.png)
 
+We noticed that the old people are the most affected by stroke. 
 
 #### Baseline Model
 
+Cross validation before oversampling:
+
+![image info]({{site.url}}/images/cross_validation.png)
+
+Predicting the train set results using KNN:
+
+![image info]({{site.url}}/images/baseline.png)
+
+![image info]({{site.url}}/images/cm1.png)
+
+#### Oversampling using SMOTE 
+
+![image info]({{site.url}}/images/oversampling.png)
 
 #### Reult 
+
+After comparing 7 different methods of classification, I chose the three best models that achieved the highest scores in matrix confusion and ROC-AUC metrics.
+
+##### Logistic Regression Result 
+
+![image info]({{site.url}}/images/logistic_regression_f1.png)
+
+![image info]({{site.url}}/images/logistic_regression_cm.png)
+
+![image info]({{site.url}}/images/roc_lg.png)
+
+##### 
+
+
 <!-- 
 Extract __top ten crowded__ stations and do the following:
 
