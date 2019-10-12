@@ -60,7 +60,7 @@ Predicting the train set using KNN:
 
 ![image info]({{site.url}}/images/oversampling.png)
 
-#### Reult 
+#### Result 
 
 After comparing 7 different methods of classification, I chose the three best models that achieved the highest scores in matrix confusion and ROC-AUC metrics.
 
