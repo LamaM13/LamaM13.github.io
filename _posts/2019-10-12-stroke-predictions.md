@@ -25,6 +25,7 @@ The data set includes almost 35,000 of observations.
 As we see here there is an imbalanced class in the target, there are only 548 individuals with stroke, while 98% of individuals are not having a stroke, and this issue was solved by using SMOTE to oversample positive values. 
 
 ![image info]({{site.url}}/images/target's_classes.png)
+![image info]({{site.url}}/images/target'tragtet_classes.png)
 
 The first plot shows the number of people who have hypertension and those who did not have hypertension with a stroke or not. The second plot shows the age of these individuals.
 
@@ -49,7 +50,7 @@ Cross validation before oversampling:
 
 ![image info]({{site.url}}/images/cross_validation.png)
 
-Predicting the train set results using KNN:
+Predicting the train set using KNN:
 
 ![image info]({{site.url}}/images/baseline.png)
 
@@ -71,7 +72,21 @@ After comparing 7 different methods of classification, I chose the three best mo
 
 ![image info]({{site.url}}/images/roc_lg.png)
 
-##### 
+##### KNN Result 
+
+![image info]({{site.url}}/images/knn_lg.png)
+
+![image info]({{site.url}}/images/knn_cm.png)
+
+![image info]({{site.url}}/images/knn_roc.png)
+
+##### Naive Bayes Result 
+
+![image info]({{site.url}}/images/Naive_Bayes_f1.png)
+
+![image info]({{site.url}}/images/Naive_Bayes_cm.png)
+
+![image info]({{site.url}}/images/naive_bayes_roc.png)
 
 
 <!-- 
